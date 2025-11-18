@@ -33,6 +33,6 @@ sequenceDiagram
 
     Note right of browser: The browser executes the callback function that renders the notes
 ```
-##0.5: one page note diagram
+##0.5: Single page app diagram
 
-##0.6: one page new note diagram
+##0.6: New note in Single page app diagram
