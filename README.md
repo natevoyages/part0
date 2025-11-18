@@ -1,4 +1,4 @@
-# Part 0 Assignments 0.4-0.6
+# Part 0 assignments 0.4 - 0.6
 
 ## 0.4: New note diagram
 ```mermaid
