@@ -68,3 +68,14 @@ sequenceDiagram
 ```
 
 ## 0.6: New note in Single page app diagram
+
+```mermaid
+sequenceDiagram
+    participant browser
+    participant server
+
+    Note right of browser: The browser starts executing the JavaScript code that renders the new note and then excutes the POST request without redirect
+
+    browser->>server: POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+    activate server
+```
